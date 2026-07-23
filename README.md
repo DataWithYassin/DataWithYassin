@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yassin <img src="https://flagcdn.com/24x18/eg.png" width="24"> <img src="https://flagcdn.com/24x18/pt.png" width="24"></h1>
-<h3 align="center">Data Analyst & Aspiring Data Engineer | SQL · Python · Power BI · Excel · Databricks | Turning messy data into decisions</h3>
+<h4 align="center">Data Analyst & Aspiring Data Engineer | SQL · Python · Power BI · Excel · Databricks | Turning messy data into decisions</h4>
 
-<p align="center">Based in Lisbon, Portugal 🇵🇹 · Originally from Egypt 🇪🇬</p>
+<p align="center">Based in Lisbon, Portugal <img src="https://flagcdn.com/24x18/pt.png" width="24"> · Originally from Egypt <img src="https://flagcdn.com/24x18/eg.png" width="24">
 
 ---
 
