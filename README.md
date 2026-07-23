@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yassin <img src="https://flagcdn.com/24x18/eg.png" width="24"> <img src="https://flagcdn.com/24x18/pt.png" width="24"></h1>
 <h4 align="center">Data Analyst & Aspiring Data Engineer | SQL · Python · Power BI · Excel · Databricks | Turning messy data into decisions</h4>
 
-<p align="center">Based in Lisbon, Portugal <img src="https://flagcdn.com/24x18/pt.png" width="24"> · Originally from Egypt <img src="https://flagcdn.com/24x18/eg.png" width="24">
+<p align="center">Based in Lisbon, Portugal <img src="https://flagcdn.com/24x18/pt.png" width="20">  Originally from Egypt <img src="https://flagcdn.com/24x18/eg.png" width="20">
+<p align="middle">
+
+<!-- LinkedIn -->
+<a href="" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+</a>
+
+<!-- Resume -->
+<a href="" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=ymirmZtDtCts&format=png&color=000000" alt="resume" width="40" height="40"/>
+</a>
 
 ---
 
