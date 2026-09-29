@@ -28,30 +28,79 @@ With a background in inventory, sales, billing, and operations analysis, as well
 
 ## 🛠️ Technical Skills
 
-| Area | Tools |
-| :--- | :--- |
-| 🗄️ **Databases & Modeling** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-003B57?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-006C6B?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-006C6B?style=flat-square) |
-| 📊 **BI & Analysis** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
-| 🌱 **Currently Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+<table width="100%">
+  <tr>
+    <td width="25%"><b>🗄️ Databases & Modeling</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/T--SQL-003B57?style=flat-square" alt="T-SQL"/>
+      <img src="https://img.shields.io/badge/Data_Modeling-006C6B?style=flat-square" alt="Data Modeling"/>
+      <img src="https://img.shields.io/badge/ETL-006C6B?style=flat-square" alt="ETL"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>📊 BI & Analysis</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>🌱 Currently Learning</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it shows | Stack |
-| :--- | :--- | :--- |
-| 🏗️ [**SQL Data Warehouse**](https://github.com/DataWithYassin/SQL.Data.warehouse.Project) | A modern data warehouse covering ETL, data modeling, and analytics, turning raw source data into analysis-ready tables. | `SQL Server` `T-SQL` `ETL` |
-| 🔜 **Coming soon** | Power BI dashboards and SQL/Python analysis projects. | `Power BI` `SQL` `Python` |
+<table width="100%">
+  <tr>
+    <th width="25%" align="left">Project</th>
+    <th width="50%" align="left">What it shows</th>
+    <th width="25%" align="left">Stack</th>
+  </tr>
+  <tr>
+    <td>🏗️ <a href="https://github.com/DataWithYassin/SQL.Data.warehouse.Project"><b>SQL Data Warehouse</b></a></td>
+    <td>A modern data warehouse covering ETL, data modeling, and analytics, turning raw source data into analysis-ready tables.</td>
+    <td><code>SQL Server</code> <code>T-SQL</code> <code>ETL</code></td>
+  </tr>
+  <tr>
+    <td>🔜 <b>Coming soon</b></td>
+    <td>Power BI dashboards and SQL/Python analysis projects.</td>
+    <td><code>Power BI</code> <code>SQL</code> <code>Python</code></td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience Highlights
 
-| Role | Highlights |
-| :--- | :--- |
-| **Settlement Officer & Analyst**<br>BNP Paribas (via Inetum)<br>*FX Prime Brokerage, Lisbon* | Processed 350 to 550 daily FX and metals settlements for 25+ institutional clients, with Excel dashboard automation and end-of-day reporting. |
-| **Senior Sales & Operations Specialist**<br>EgyptAir Duty Free<br>*9 years* | Ran biweekly EDA on SKU movement and invoice analysis by nationality using SAP and Excel dashboards, and handled independent stock ordering and dead stock transfers. |
-| **Sales & Customer Service Executive**<br>Etisalat Egypt | Billing and invoice analysis, high-value customer identification, and complaint-to-sale conversion. |
+<table width="100%">
+  <tr>
+    <th width="30%" align="left">Role</th>
+    <th width="70%" align="left">Highlights</th>
+  </tr>
+  <tr>
+    <td><b>Settlement Officer & Analyst</b><br>BNP Paribas (via Inetum)<br><i>FX Prime Brokerage, Lisbon</i></td>
+    <td>Processed 350 to 550 daily FX and metals settlements for 25+ institutional clients, with Excel dashboard automation and end-of-day reporting.</td>
+  </tr>
+  <tr>
+    <td><b>Senior Sales & Operations Specialist</b><br>EgyptAir Duty Free<br><i>9 years</i></td>
+    <td>Ran biweekly EDA on SKU movement and invoice analysis by nationality using SAP and Excel dashboards, and handled independent stock ordering and dead stock transfers.</td>
+  </tr>
+  <tr>
+    <td><b>Sales & Customer Service Executive</b><br>Etisalat Egypt</td>
+    <td>Billing and invoice analysis, high-value customer identification, and complaint-to-sale conversion.</td>
+  </tr>
+</table>
 
 ---
 
@@ -72,8 +121,8 @@ With a background in inventory, sales, billing, and operations analysis, as well
 
 <div align="center">
 
-<a href="https://github.com/DataWithYassin"><img height="170" src="https://github-readme-stats.vercel.app/api?username=DataWithYassin&show_icons=true&theme=radical" alt="GitHub stats"/></a>
-<a href="https://github.com/DataWithYassin"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithYassin&layout=compact&theme=radical" alt="Top languages"/></a>
+<a href="https://github.com/DataWithYassin"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=DataWithYassin&show_icons=true&theme=radical" alt="GitHub stats"/></a>
+<a href="https://github.com/DataWithYassin"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithYassin&layout=compact&theme=radical" alt="Top languages"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=006C6B&height=90&section=footer" alt="" width="100%"/>
 
