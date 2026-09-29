@@ -1,11 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=006C6B&height=150&section=header&text=Mohamed%20Yassin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descSize=18&descAlignY=58" alt="Mohamed Yassin, Data Analyst" width="100%"/>
-
 **SQL · Power BI · Excel · Python · Databricks**
-
 *Turning messy data into decisions*
-
 <img src="https://flagcdn.com/24x18/pt.png" width="20" alt="Portugal"/> Based in Lisbon, Portugal &nbsp;|&nbsp; <img src="https://flagcdn.com/24x18/eg.png" width="20" alt="Egypt"/> Originally from Egypt
 
 <br>
