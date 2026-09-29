@@ -1,88 +1,82 @@
-<h1 align="center">Hi 👋, I'm Mohamed Yassin <img src="https://flagcdn.com/24x18/eg.png" width="24"> <img src="https://flagcdn.com/24x18/pt.png" width="24"></h1>
-<h4 align="center">Data Analyst & Aspiring Data Engineer | SQL · Python · Power BI · Excel · Databricks | Turning messy data into decisions</h4>
+<div align="center">
 
-<p align="center">Based in Lisbon, Portugal <img src="https://flagcdn.com/24x18/pt.png" width="20">  Originally from Egypt <img src="https://flagcdn.com/24x18/eg.png" width="20">
-<p align="middle">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006C6B&height=150&section=header&text=Mohamed%20Yassin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descSize=18&descAlignY=58" alt="Mohamed Yassin, Data Analyst" width="100%"/>
 
-<!-- LinkedIn -->
-<a href="" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-</a>
+**SQL · Power BI · Excel · Python · Databricks**
 
-<!-- Resume -->
-<a href="" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=ymirmZtDtCts&format=png&color=000000" alt="resume" width="40" height="40"/>
-</a>
+*Turning messy data into decisions*
 
----
+<img src="https://flagcdn.com/24x18/pt.png" width="20" alt="Portugal"/> Based in Lisbon, Portugal &nbsp;|&nbsp; <img src="https://flagcdn.com/24x18/eg.png" width="20" alt="Egypt"/> Originally from Egypt
 
-### 👋 About Me
+<br>
 
-I work with data from the ground up: taking raw, unstructured data and turning it into something usable before I ever touch analysis. That means normalization, ERD design, and building staging tables in SQL Server, then layering EDA and dashboards on top in Power BI and Excel. My background spans inventory analytics, billing analysis, and financial operations. I'm always looking to deepen my data skills, currently expanding into Python, Databricks, and data engineering fundamentals.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedelesseily/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.elisely@gmail.com)
+<!-- Add your resume badge here once you have a public link:
+[![Resume](https://img.shields.io/badge/Resume-006C6B?style=for-the-badge&logo=readme&logoColor=white)](YOUR_RESUME_LINK)
+-->
+
+</div>
 
 ---
 
-### 🚀 Selected Work
+## 👋 About Me
 
-| Project | Description | Result |
-|---|---|---|
-| **[Shiftinger](https://shiftinger.eu)** | Two-sided shift-work marketplace for Portugal's hospitality sector — founder, product & ops | In active build and deployment |
-| **TripGuide** | Tour marketplace (Hurghada) — EDA on booking patterns, user/supplier flow, segmentation | 27K bookings · 15K users · 72% conversion · 36% retention |
-| **Mentor Valley** | EdTech platform — funnel tracking and content optimization in Excel | 5x session growth (50 → 250) · 40% conversion · 20% engagement |
-| **EgyptAir Duty Free Analytics** | Biweekly EDA, SKU tracking, invoice analysis by nationality, SAP + Excel dashboards | 9 years, $4.8M store context |
+I start where most analysis fails: the data itself. I use **SQL Server** to turn raw, messy data into structured, reliable datasets through data modeling and ETL, designing the data architecture and choosing the modeling approach based on business and analytical requirements. Then I use **Power BI** and **Excel** to turn that foundation into dashboards and actionable insights.
+
+With a background in inventory, sales, billing, and operations analysis, as well as financial operations, I bring an operational perspective to data, not just the technical side. I'm now expanding into **Python** and **Databricks** to work with larger datasets, automate workflows, and go deeper on analysis.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Technical Skills
 
-<p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
-<a href="https://www.databricks.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/></a>
-<a href="https://www.sap.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Data%20Warehousing-006C6B?style=for-the-badge" alt="Data Warehousing"/>
-<img src="https://img.shields.io/badge/ETL%2FELT-006C6B?style=for-the-badge" alt="ETL/ELT"/>
-<img src="https://img.shields.io/badge/Database%20Design-006C6B?style=for-the-badge" alt="Database Design"/>
-</p>
+| Area | Tools |
+| :--- | :--- |
+| 🗄️ **Databases & Modeling** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-003B57?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-006C6B?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-006C6B?style=flat-square) |
+| 📊 **BI & Analysis** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
+| 🌱 **Currently Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
 
 ---
 
-### 📚 Currently Learning
+## 🚀 Featured Projects
 
-Python and Databricks — building toward Data Engineering while continuing to work Data Analyst roles.
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-
-<!-- LinkedIn -->
-<a href="" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-</a>
-
-<!-- Resume -->
-<a href="" target="_blank">
-<img src="https://img.icons8.com/color/48/resume.png" alt="resume" width="40" height="40"/>
-</a>
-
-<!-- Instagram -->
-<a href="" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
-</a>
-
-</p>
-
+| Project | What it shows | Stack |
+| :--- | :--- | :--- |
+| 🏗️ [**SQL Data Warehouse**](https://github.com/DataWithYassin/SQL.Data.warehouse.Project) | A modern data warehouse covering ETL, data modeling, and analytics, turning raw source data into analysis-ready tables. | `SQL Server` `T-SQL` `ETL` |
+| 🔜 **Coming soon** | Power BI dashboards and SQL/Python analysis projects. | `Power BI` `SQL` `Python` |
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Data-with-Yassin&label=Profile%20Views&color=006C6B&style=flat" alt="Data-with-Yassin" />
-</p>
+## 💼 Experience Highlights
+
+| Role | Highlights |
+| :--- | :--- |
+| **Settlement Officer & Analyst**<br>BNP Paribas (via Inetum)<br>*FX Prime Brokerage, Lisbon* | Processed 350 to 550 daily FX and metals settlements for 25+ institutional clients, with Excel dashboard automation and end-of-day reporting. |
+| **Senior Sales & Operations Specialist**<br>EgyptAir Duty Free<br>*9 years* | Ran biweekly EDA on SKU movement and invoice analysis by nationality using SAP and Excel dashboards, and handled independent stock ordering and dead stock transfers. |
+| **Sales & Customer Service Executive**<br>Etisalat Egypt | Billing and invoice analysis, high-value customer identification, and complaint-to-sale conversion. |
+
+---
+
+## 🎓 Certifications
+
+- 🏅 **PMP** (2022)
+- 🏅 **DataCamp:** Associate Data Analyst in SQL, Data Analyst in Power BI, Data Analysis in Excel, Excel Power Tools, Data Literacy Professional
+
+---
+
+## 📚 Currently Learning
+
+**Python** and **Databricks**, to analyze larger datasets, automate reporting, and go deeper on analysis.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/DataWithYassin"><img height="170" src="https://github-readme-stats.vercel.app/api?username=DataWithYassin&show_icons=true&theme=radical" alt="GitHub stats"/></a>
+<a href="https://github.com/DataWithYassin"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithYassin&layout=compact&theme=radical" alt="Top languages"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006C6B&height=90&section=footer" alt="" width="100%"/>
+
+</div>
