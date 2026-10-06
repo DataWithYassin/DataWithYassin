@@ -20,7 +20,9 @@
 
 ## 👋 About Me
 
-I start where most analysis fails: the data itself. I use **SQL Server** to turn raw, messy data into structured, reliable datasets through data modeling and ETL, designing the data architecture and choosing the modeling approach based on business and analytical requirements. Then I use **Power BI** and **Excel** to turn that foundation into dashboards and actionable insights.
+***I start where most analysis goes wrong: the data itself; and finish with dashboards people can act on.***<br>  
+
+I use **SQL Server** to turn raw, messy data into structured, reliable datasets through data modeling and ETL, designing the data architecture and choosing the modeling approach based on business and analytical requirements. Then I use **Power BI** and **Excel** to turn that foundation into dashboards and actionable insights.
 
 With a background in inventory, sales, billing, and operations analysis, as well as financial operations, I bring an operational perspective to data, not just the technical side. I'm now expanding into **Python** and **Databricks** to work with larger datasets, automate workflows, and go deeper on analysis.
 
