@@ -75,11 +75,18 @@ With a background in inventory, sales, billing, and operations analysis, as well
     <td><code>SQL Server</code> <code>T-SQL</code> <code>ETL</code></td>
   </tr>
   <tr>
+    <td>📊 <a href="https://github.com/DataWithYassin/SQL.Data.Analytics.Project"><b>SQL Data Analytics</b></a></td>
+    <td>Exploratory and advanced SQL analysis on top of the warehouse, turning analysis-ready data into business insights.</td>
+    <td><code>SQL Server</code> <code>T-SQL</code> <code>EDA</code></td>
+  </tr>
+  <tr>
     <td>🔜 <b>Coming soon</b></td>
-    <td>Power BI dashboards and SQL/Python analysis projects.</td>
-    <td><code>Power BI</code> <code>SQL</code> <code>Python</code></td>
+    <td>Power BI dashboards and Python analysis projects.</td>
+    <td><code>Power BI</code> <code>Python</code></td>
   </tr>
 </table>
+
+---
 
 ---
 
