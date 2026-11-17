@@ -46,7 +46,6 @@ With a background in inventory, sales, billing, and operations analysis, as well
     <td width="75%">
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
       <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
     </td>
   </tr>
@@ -85,8 +84,6 @@ With a background in inventory, sales, billing, and operations analysis, as well
     <td><code>Power BI</code> <code>Python</code></td>
   </tr>
 </table>
-
----
 
 ---
 
