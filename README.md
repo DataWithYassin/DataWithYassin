@@ -34,9 +34,16 @@ With a background in inventory, sales, billing, and operations analysis, as well
     <td width="75%">
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/T--SQL-003B57?style=flat-square" alt="T-SQL"/>
       <img src="https://img.shields.io/badge/Data_Modeling-006C6B?style=flat-square" alt="Data Modeling"/>
       <img src="https://img.shields.io/badge/ETL-006C6B?style=flat-square" alt="ETL"/>
+      <img src="https://img.shields.io/badge/Data_Mapping-006C6B?style=flat-square" alt="Data Mapping"/>
+      <img src="https://img.shields.io/badge/Star_Schema-006C6B?style=flat-square" alt="Star Schema"/>
+      <img src="https://img.shields.io/badge/Data_Warehousing-006C6B?style=flat-square" alt="Data Warehousing"/>
+      <img src="https://img.shields.io/badge/Data_Integration-006C6B?style=flat-square" alt="Data Integration"/>
+      <img src="https://img.shields.io/badge/Data_Cleaning-006C6B?style=flat-square" alt="Data Cleaning"/>
+      <img src="https://img.shields.io/badge/Data_Validation-006C6B?style=flat-square" alt="Data Validation"/>
     </td>
   </tr>
   <tr>
@@ -45,6 +52,12 @@ With a background in inventory, sales, billing, and operations analysis, as well
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
       <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
+      <img src="https://img.shields.io/badge/DAX-006C6B?style=flat-square" alt="DAX"/>
+      <img src="https://img.shields.io/badge/Power_Query-006C6B?style=flat-square" alt="Power Query"/>
+      <img src="https://img.shields.io/badge/Data_Visualization-006C6B?style=flat-square" alt="Data Visualization"/>
+      <img src="https://img.shields.io/badge/KPI_Reporting-006C6B?style=flat-square" alt="KPI Reporting"/>
+      <img src="https://img.shields.io/badge/EDA-006C6B?style=flat-square" alt="EDA"/>
+      <img src="https://img.shields.io/badge/Pivot_Tables-006C6B?style=flat-square" alt="Pivot Tables"/>
     </td>
   </tr>
   <tr>
