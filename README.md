@@ -20,7 +20,7 @@
 
 ***I start where most analysis goes wrong: the data itself; and finish with dashboards people can act on.***<br>  
 
-I use **SQL Server** to turn raw, messy data into structured, reliable datasets through data modeling and ETL, designing the data architecture and choosing the modeling approach based on business and analytical requirements. Then I use **Power BI** and **Excel** to turn that foundation into dashboards and actionable insights.
+In my projects and coursework, I use **SQL Server** to turn raw, messy data into structured, reliable datasets through ETL and data modeling. In my work, I use **Power BI** and **Excel** to turn business data into dashboards and actionable insights for managers.
 
 With a background in inventory, sales, billing, and operations analysis, as well as financial operations, I bring an operational perspective to data, not just the technical side. I'm now expanding into **Python** and **Databricks** to work with larger datasets, automate workflows, and go deeper on analysis.
 
@@ -94,19 +94,11 @@ With a background in inventory, sales, billing, and operations analysis, as well
   </tr>
   <tr>
     <td><b>Settlement Officer & Analyst</b><br>BNP Paribas (via Inetum)<br><i>FX Prime Brokerage, Lisbon</i></td>
-    <td>Reconciled 350 to 550 daily FX and metals transactions for 25+ institutional clients, ran data-quality checks before every payment, and traced settlement breaks to root cause. Saved 30 to 60 minutes of manual search daily with an Excel dashboard that classifies transactions by required action.</td>
-  </tr>
-  <tr>
-    <td><b>Content Review Analyst</b><br>Accenture<br><i>Google Ads & DeepMind Projects, Lisbon</i></td>
-    <td>Top performer for 3 consecutive months, reviewing up to 500 pages and ads daily in Arabic and English. Built Excel reporting templates used by a 5 to 10 person team and flagged recurring violation patterns to team leads.</td>
+    <td>Ran data-quality checks on 350 to 550 daily FX and metals transactions for 25+ institutional clients, reconciling internal trade data against client confirmations and tracing settlement breaks to root cause. Built an Excel dashboard that classifies transactions by required action, saving 30 to 60 minutes of manual search daily.</td>
   </tr>
   <tr>
     <td><b>Senior Sales & Operations Specialist</b><br>EgyptAir Duty Free<br><i>Perfume & Cosmetics, 9 years</i></td>
-    <td>Turned SAP ERP sales and inventory data into weekly and half-monthly Power BI dashboards and Excel reports (data cleaning, modelling, DAX) for managers and brand representatives. Analysed 50K+ SKUs from 50+ brands by brand, category, nationality, and season to guide reorders and dead-stock transfers.</td>
-  </tr>
-  <tr>
-    <td><b>Sales & Customer Service Executive</b><br>Etisalat Egypt<br><i>Cairo</i></td>
-    <td>Mined customer billing data to find high-value accounts and cross-sell opportunities, hitting 120% of the monthly target and earning Top Sales Achiever for 4 consecutive months.</td>
+    <td>Analysed sales and inventory data for 50K+ SKUs from 50+ brands, exporting it from SAP ERP, then cleaning and modelling it in Power BI (DAX) and Excel. Delivered weekly and half-monthly dashboards tracking trends by brand, category, customer nationality, and season, used by managers and brand representatives to guide reorders and dead-stock transfers.</td>
   </tr>
 </table>
 
