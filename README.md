@@ -10,9 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedelesseily/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.elisely@gmail.com)
-<!-- Add your resume badge here once you have a public link:
-[![Resume](https://img.shields.io/badge/Resume-006C6B?style=for-the-badge&logo=readme&logoColor=white)](YOUR_RESUME_LINK)
--->
+[![Resume](https://img.shields.io/badge/Resume-006C6B?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/DataWithYassin/DataWithYassin/blob/main/Mohamed%20Yassin%20l%20Data%20Analyst.pdf)
 
 </div>
 
@@ -96,15 +94,19 @@ With a background in inventory, sales, billing, and operations analysis, as well
   </tr>
   <tr>
     <td><b>Settlement Officer & Analyst</b><br>BNP Paribas (via Inetum)<br><i>FX Prime Brokerage, Lisbon</i></td>
-    <td>Processed 350 to 550 daily FX and metals settlements for 25+ institutional clients, with Excel dashboard automation and end-of-day reporting.</td>
+    <td>Reconciled 350 to 550 daily FX and metals transactions for 25+ institutional clients, ran data-quality checks before every payment, and traced settlement breaks to root cause. Saved 30 to 60 minutes of manual search daily with an Excel dashboard that classifies transactions by required action.</td>
   </tr>
   <tr>
-    <td><b>Senior Sales & Operations Specialist</b><br>EgyptAir Duty Free<br><i>9 years</i></td>
-    <td>Ran biweekly EDA on SKU movement and invoice analysis by nationality using SAP and Excel dashboards, and handled independent stock ordering and dead stock transfers.</td>
+    <td><b>Content Review Analyst</b><br>Accenture<br><i>Google Ads & DeepMind Projects, Lisbon</i></td>
+    <td>Top performer for 3 consecutive months, reviewing up to 500 pages and ads daily in Arabic and English. Built Excel reporting templates used by a 5 to 10 person team and flagged recurring violation patterns to team leads.</td>
   </tr>
   <tr>
-    <td><b>Sales & Customer Service Executive</b><br>Etisalat Egypt</td>
-    <td>Billing and invoice analysis, high-value customer identification, and complaint-to-sale conversion.</td>
+    <td><b>Senior Sales & Operations Specialist</b><br>EgyptAir Duty Free<br><i>Perfume & Cosmetics, 9 years</i></td>
+    <td>Turned SAP ERP sales and inventory data into weekly and half-monthly Power BI dashboards and Excel reports (data cleaning, modelling, DAX) for managers and brand representatives. Analysed 50K+ SKUs from 50+ brands by brand, category, nationality, and season to guide reorders and dead-stock transfers.</td>
+  </tr>
+  <tr>
+    <td><b>Sales & Customer Service Executive</b><br>Etisalat Egypt<br><i>Cairo</i></td>
+    <td>Mined customer billing data to find high-value accounts and cross-sell opportunities, hitting 120% of the monthly target and earning Top Sales Achiever for 4 consecutive months.</td>
   </tr>
 </table>
 
