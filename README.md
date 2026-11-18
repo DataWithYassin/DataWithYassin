@@ -30,7 +30,7 @@ With a background in inventory, sales, billing, and operations analysis, as well
 
 <table width="100%">
   <tr>
-    <td width="25%"><b>🗄️ Databases & Modeling</b></td>
+    <td width="25%"><b>🗄️&nbsp;Databases&nbsp;&amp;&nbsp;Modeling</b></td>
     <td width="75%">
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -40,7 +40,7 @@ With a background in inventory, sales, billing, and operations analysis, as well
     </td>
   </tr>
   <tr>
-    <td width="25%"><b>📊 BI & Analysis</b></td>
+    <td width="25%"><b>📊&nbsp;BI&nbsp;&amp;&nbsp;Analysis</b></td>
     <td width="75%">
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
@@ -48,7 +48,7 @@ With a background in inventory, sales, billing, and operations analysis, as well
     </td>
   </tr>
   <tr>
-    <td width="25%"><b>🌱 Currently Learning</b></td>
+    <td width="25%"><b>🌱&nbsp;Currently&nbsp;Learning</b></td>
     <td width="75%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
       <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
